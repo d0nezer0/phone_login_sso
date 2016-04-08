@@ -1,2 +1,4 @@
-# phone_login_sso
-a sso system based on django-mama-cas
+a sso Central Authentication Service based on django-mama-cas with phone login and email login etc.
+
+TODO: fit for PHP projects and APP projects.
+
